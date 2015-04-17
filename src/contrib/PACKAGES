@@ -27,3 +27,14 @@ OS_type: unix
 MD5sum: 628149e64540d62218ee72f29344a605
 NeedsCompilation: yes
 
+Package: mesheR
+Version: 0.4.150219
+Depends: R (>= 3.0.0), spam
+Imports: colorspace, Rvcg (>= 0.7.1.140506), parallel, Morpho (>=
+        2.0.2.140506), Matrix, rgl(>= 0.93.963), Rcpp
+LinkingTo: Rcpp, RcppArmadillo
+Suggests: RvtkStatismo
+License: GPL-2
+MD5sum: c4c8c16ea5444894708b4188231401d7
+NeedsCompilation: yes
+

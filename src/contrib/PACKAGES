@@ -1,3 +1,18 @@
+Package: ANTsR
+Version: 0.3
+Depends: methods
+Imports: Rcpp, tools, magrittr
+LinkingTo: Rcpp, ITKR
+Suggests: abind, BGLR, caret, cluster, d3Network, DMwR, e1071,
+        extremevalues, fastICA, fpc, glasso, glmnet, grid, igraph,
+        knitr, magic, MASS, mFilter, misc3d, moments, pixmap, png,
+        psych, randomForest, rgl, robust, robustbase, signal, sna,
+        testthat, visreg, wmtsa
+License: GPL (>= 2)
+OS_type: unix
+MD5sum: 037f75c756eb32555c469dc2e4666923
+NeedsCompilation: yes
+
 Package: cmaker
 Version: 0.0
 License: BSD_3_clause + file LICENSE

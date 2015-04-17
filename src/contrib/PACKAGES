@@ -1,0 +1,7 @@
+Package: ITKR
+Version: 0.0
+License: GPL (>= 2)
+OS_type: unix
+MD5sum: 628149e64540d62218ee72f29344a605
+NeedsCompilation: yes
+

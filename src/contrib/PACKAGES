@@ -64,6 +64,6 @@ Version: 0.2.150420
 Imports: Rcpp (>= 0.11.1), Morpho, Rvcg, methods
 LinkingTo: Rcpp,RcppEigen
 License: GPL (>= 2)
-MD5sum: 4447ee89a15ec7cc38031349f76ba6e3
+MD5sum: 065f154a902d15c6bd40f49138e859c8
 NeedsCompilation: yes
 

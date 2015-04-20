@@ -35,6 +35,35 @@ Imports: colorspace, Rvcg (>= 0.7.1.140506), parallel, Morpho (>=
 LinkingTo: Rcpp, RcppArmadillo
 Suggests: RvtkStatismo
 License: GPL-2
-MD5sum: c4c8c16ea5444894708b4188231401d7
+MD5sum: 000886bf9915ad329e854ce0d31d6070
+NeedsCompilation: yes
+
+Package: Morpho
+Version: 2.2.150416
+Depends: R (>= 3.0.2)
+Imports: Rvcg (>= 0.7), rgl (>= 0.93.963), foreach (>= 1.4.0), Matrix
+        (>= 1.0-1), parallel, yaImpute, doParallel (>= 1.0.6), Rcpp
+LinkingTo: Rcpp, RcppArmadillo (>= 0.4)
+Suggests: car, lattice, MASS, shapes
+License: GPL-2
+MD5sum: ee8aacd0c7eb6cf0e9652d3869d962b4
+NeedsCompilation: yes
+
+Package: Rvcg
+Version: 0.11.150414
+Depends: R (>= 3.0.0)
+Imports: Rcpp
+LinkingTo: Rcpp, RcppEigen
+Suggests: Morpho, rgl
+License: GPL (>= 2) | file LICENSE
+MD5sum: e381b2e5200056685b7ea450e1fee1e4
+NeedsCompilation: yes
+
+Package: RvtkStatismo
+Version: 0.2.150130
+Imports: Rcpp (>= 0.11.1), Morpho, Rvcg, methods
+LinkingTo: Rcpp,RcppEigen
+License: GPL (>= 2)
+MD5sum: 2f818ee061c6fa84ecae9a8f0676a4fc
 NeedsCompilation: yes
 

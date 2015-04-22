@@ -49,6 +49,15 @@ License: GPL-2
 MD5sum: ee8aacd0c7eb6cf0e9652d3869d962b4
 NeedsCompilation: yes
 
+Package: RANTs
+Version: 0.1.150422
+Depends: R (>= 3.0.2), ANTsR
+Imports: Morpho, Rvcg
+Suggests: nat
+License: GPL-2
+MD5sum: edc8652eb147a3a4a1dd8ccfbfaa448f
+NeedsCompilation: no
+
 Package: Rvcg
 Version: 0.11.150414
 Depends: R (>= 3.0.0)

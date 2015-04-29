@@ -10,7 +10,7 @@ Suggests: abind, BGLR, caret, cluster, d3Network, DMwR, e1071,
         testthat, visreg, wmtsa
 License: GPL (>= 2)
 OS_type: unix
-MD5sum: 66aafe1d17b8f373d47ac322ef94c0f0
+MD5sum: cee4799ca0743584921cd44fbd762c6f
 NeedsCompilation: yes
 
 Package: cmaker

@@ -47,7 +47,7 @@ Imports: Rvcg (>= 0.7), rgl (>= 0.93.963), foreach (>= 1.4.0), Matrix
 LinkingTo: Rcpp, RcppArmadillo (>= 0.4)
 Suggests: car, lattice, MASS, shapes, testthat
 License: GPL-2
-MD5sum: 2b4fca3cbd452f351e2f51e23dc321da
+MD5sum: b5b654cc5bbbf2d84be87cd3fe661d4b
 NeedsCompilation: yes
 
 Package: RANTs

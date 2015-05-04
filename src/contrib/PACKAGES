@@ -28,14 +28,14 @@ MD5sum: 628149e64540d62218ee72f29344a605
 NeedsCompilation: yes
 
 Package: mesheR
-Version: 0.4.150420
+Version: 0.4.150504
 Depends: R (>= 3.0.0), spam
 Imports: colorspace, Rvcg (>= 0.7.1.140506), parallel, Morpho (>=
         2.0.2.140506), Matrix, rgl(>= 0.93.963), Rcpp
 LinkingTo: Rcpp, RcppArmadillo
 Suggests: RvtkStatismo
 License: GPL-2
-MD5sum: 44264e2cf880299cbb77041f770f7ce5
+MD5sum: aab1c471acf15f643666a5d6a35df4a1
 NeedsCompilation: yes
 
 Package: Morpho

@@ -1,5 +1,5 @@
 Package: ANTsR
-Version: 0.3.150502
+Version: 0.3.150507
 Depends: methods
 Imports: Rcpp, tools, magrittr
 LinkingTo: Rcpp, ITKR
@@ -10,7 +10,7 @@ Suggests: abind, BGLR, caret, cluster, d3Network, DMwR, e1071,
         testthat, visreg, wmtsa
 License: GPL (>= 2)
 OS_type: unix
-MD5sum: 06c8293ab525cd33661aeb14d94d7195
+MD5sum: 17f1cdf326237ac0e473140374dd0930
 NeedsCompilation: yes
 
 Package: cmaker

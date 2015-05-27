@@ -39,7 +39,7 @@ MD5sum: 55e2635296adcdc1275d96273018eb91
 NeedsCompilation: yes
 
 Package: Morpho
-Version: 2.2.150521
+Version: 2.2.150527
 Depends: R (>= 3.0.2)
 Imports: Rvcg (>= 0.7), rgl (>= 0.93.963), foreach (>= 1.4.0), Matrix
         (>= 1.0-1), parallel, yaImpute, doParallel (>= 1.0.6),
@@ -47,7 +47,7 @@ Imports: Rvcg (>= 0.7), rgl (>= 0.93.963), foreach (>= 1.4.0), Matrix
 LinkingTo: Rcpp, RcppArmadillo (>= 0.4)
 Suggests: car, lattice, MASS, shapes, testthat
 License: GPL-2
-MD5sum: ac1e74fa4c7328035a0c05b8aff7c2af
+MD5sum: bfc5092dbeeadd3e3f0a5806436d193c
 NeedsCompilation: yes
 
 Package: RANTs

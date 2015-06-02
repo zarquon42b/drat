@@ -51,12 +51,12 @@ MD5sum: 5882caaaa9e42c8c90d8e0ea4421f096
 NeedsCompilation: yes
 
 Package: RANTs
-Version: 0.1.150519
+Version: 0.1.150602
 Depends: R (>= 3.0.2), ANTsR
 Imports: R.matlab, Morpho, Rvcg
 Suggests: nat
 License: GPL-2
-MD5sum: 62aa27a4b50944ad3b37d9fdb4e573de
+MD5sum: eadb0247ea999bf7e79895283d36dcba
 NeedsCompilation: no
 
 Package: Rvcg

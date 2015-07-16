@@ -39,15 +39,15 @@ MD5sum: ffbf2b7809b1a0884d69eb38555db2f0
 NeedsCompilation: yes
 
 Package: Morpho
-Version: 2.2.150603
+Version: 2.3.0.150716
 Depends: R (>= 3.0.2)
 Imports: Rvcg (>= 0.7), rgl (>= 0.93.963), foreach (>= 1.4.0), Matrix
         (>= 1.0-1), parallel, yaImpute, doParallel (>= 1.0.6),
-        colorRamps, Rcpp
+        colorRamps, Rcpp, graphics, grDevices, methods, stats, utils
 LinkingTo: Rcpp, RcppArmadillo (>= 0.4)
 Suggests: car, lattice, MASS, shapes, testthat
 License: GPL-2
-MD5sum: 654b7a112556dab01627af736e3ebae8
+MD5sum: 655b1c3c627d9f5df735e3a635ed5fb8
 NeedsCompilation: yes
 
 Package: RANTs

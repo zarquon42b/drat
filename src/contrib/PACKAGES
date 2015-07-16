@@ -70,10 +70,11 @@ MD5sum: dff96e7fdc545c41b49601aeaad56a91
 NeedsCompilation: yes
 
 Package: RvtkStatismo
-Version: 0.2.150506
+Version: 0.2.150716
 Imports: Rcpp (>= 0.11.1), Morpho, Rvcg, methods
 LinkingTo: Rcpp,RcppEigen
+Suggests: rgl, testthat
 License: GPL (>= 2)
-MD5sum: 871433e40b7f577abbcca99837551e97
+MD5sum: ccdb7351249839ad86e1d5bb411d8a39
 NeedsCompilation: yes
 

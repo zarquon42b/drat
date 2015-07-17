@@ -60,13 +60,13 @@ MD5sum: 0c47407b211208e327526b2b0097eb08
 NeedsCompilation: no
 
 Package: Rvcg
-Version: 0.12.1.150716
+Version: 0.12.2.150717
 Depends: R (>= 3.0.0)
 Imports: Rcpp, grDevices, stats, utils
 LinkingTo: Rcpp, RcppEigen
 Suggests: Morpho, rgl
 License: GPL (>= 2) | file LICENSE
-MD5sum: dff96e7fdc545c41b49601aeaad56a91
+MD5sum: af0871c6462f21bc30228914c03b2c45
 NeedsCompilation: yes
 
 Package: RvtkStatismo
